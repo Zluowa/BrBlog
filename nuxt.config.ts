@@ -16,8 +16,8 @@ export default defineNuxtConfig({
             script:[
                 {
                     async: true,
-                    src: 'https://analytics.us.umami.is/script.js',
-                    'data-website-id': '6524c96d-3029-473e-bf39-2ef1b06faef8',
+                    src: 'https://analytics.brackrat.com/script.js',
+                    'data-website-id': '08fc9e5c-3446-455d-be05-154cd72bc5b6',
                 },
             ],
         }
