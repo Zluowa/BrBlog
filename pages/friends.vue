@@ -34,10 +34,10 @@ async function fetchFriends() {
 
 const md = "欢迎与你互换友链，记得先添加本站哦！\n" +
     "\n" +
-    "- Name: 波西\n" +
+    "- Name: 树生\n" +
     "- Link: https://blog.brackrat.com/\n" +
     "- Avatar: https://static.brackrat.com/icon.jpg\n" +
-    "- Desc: 心有所向，日复一日。\n" +
+    "- Desc: 双木非林，田下有心。\n" +
     "\n" +
     "有点小小的要求：\n" +
     "\n" +
